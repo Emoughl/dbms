@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 
+# Local Teradata VM artifacts (large and machine-specific)
+teradata/installers/
+teradata/runtime/
+teradata/*.ova
+teradata/*.vmdk
+teradata/*.qcow2
+
