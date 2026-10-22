@@ -12,3 +12,4 @@ teradata/*.qcow2
 
 node_modules/
 .next/
+.venv/
