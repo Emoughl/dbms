@@ -10,3 +10,5 @@ teradata/*.ova
 teradata/*.vmdk
 teradata/*.qcow2
 
+node_modules/
+.next/
